@@ -1,0 +1,6 @@
+{
+    "servers": [
+        {"id": 1,"serverName": "testowy serwer z DB","serverContent": "test"},
+        {"id": 2,"serverName": "drugi testowy serwer z DB","serverContent": "test"}
+    ]
+}

@@ -1,0 +1,8 @@
+.kafelek {
+    width: 25vw;
+    height: 30vh; /* 30% wysokości widoku */
+    margin: 0.5%; /* Mały margines, aby kafelki nie stykały się bezpośrednio */
+    border: 1px solid black;
+    /* Dodatkowe style (tło, obramowanie itp.) */
+  }
+  

@@ -1,0 +1,7 @@
+[class*="col"]
+{
+    padding: 1rem;
+    background-color: rgb(0, 132, 255);
+    border: 2px solid gainsboro;
+    color:  #fff;
+}

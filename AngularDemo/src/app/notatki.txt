@@ -1,0 +1,3 @@
+npm install -g @angular/cli - instalacja środowiska angular 
+ng new NAZWA_PROJEKTU - tworzy nowy projekt
+ng serve - uruchami aplikacje
